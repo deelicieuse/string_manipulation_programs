@@ -1,3 +1,5 @@
 # prompt for full name and convert to uppercase
-full_name = input{"Please enter your full name: "}
+full_name = input("Please enter your full name: ").upper()
+
+
 # print result
