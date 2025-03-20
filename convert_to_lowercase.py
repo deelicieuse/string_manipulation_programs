@@ -1,4 +1,4 @@
 # prompt for full name and convert to lowercase
-full_name = input("Please enter your full name:")
+full_name = input("Please enter your full name:").lower()
 
 # print result
