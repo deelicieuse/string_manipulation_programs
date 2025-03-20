@@ -5,3 +5,4 @@ statement = input("Please enter a statement: ").split()
 word_count = len(statement)
 
 # print word count
+print(f"Word Count: {word_count}")
