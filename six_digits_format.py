@@ -1,3 +1,4 @@
-# prompt fot number (0-1000)
-# reformat number to six digit with leading zeros
+# prompt fot number (0-1000) and # reformat number to six digit with leading zeros
+number = input("Please enter a number between 0 and 1000: ")
+
 # print six digit numbr
