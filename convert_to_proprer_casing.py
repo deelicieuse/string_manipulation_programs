@@ -2,3 +2,4 @@
 full_name = input("Please enter your full name in improper casing (Ex: jUan dELa crUZ): ").title()
 
 # print corrected full name
+print(full_name)
